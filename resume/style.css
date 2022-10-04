@@ -1,32 +1,50 @@
+/*Styles for my resume*/
+
+/*Resume starts here*/
+
 body{
     font-family: "Open Sans", Arial, serif;
     color: #444;
     line-height: 1em;
     font-weight: 400;
 }
+/*Name at top*/
+
 h1{
     font-family: "Open Sans", Arial, serif;
     color: #444;
     line-height: 1em;
     font-weight: 400;
 }
+
+/*Section titles "experience" "education" and "skills"*/
+
 h2{
     font-family: "Open Sans", Arial, serif;
     color: #444;
     line-height: 1em;
     font-weight: 400;
 }
+
+/*Job titles "editorial intern" and "communications intern"*/
+
 h3{
     font-family: "Open Sans", Arial, serif;
     color: #444;
     line-height: 1em;
     font-weight: 400;
 }
+
+/*Job organizations "Reporters Committee" "MCM" and "Mid-Atlantic Media"*/
+
 h4{
     font-family: "Open Sans", Arial, serif;
     color: #444;
     line-height: 1em;
     font-weight: 400;
+
+    /*Job dates "Summer 2022" "Fall 2021" and "Fall 2020"*/
+
 }
 h5{
     font-family: "Open Sans", Arial, serif;
@@ -34,11 +52,17 @@ h5{
     line-height: 1em;
     font-weight: 400;
 }
+
+ /*Job descriptions*/
+
 p{
     font-family: "Open Sans", Arial, serif;
     color: #444;
     line-height: 1em;
     font-weight: 400;
+
+ /*Lists for "contact info" "education" and "skills"*/
+
 }
 ul{
     font-family: "Open Sans", Arial, serif;
@@ -46,6 +70,9 @@ ul{
     line-height: 1em;
     font-weight: 400;
 }
+
+/*List items in "contact info" "education" and "skills"*/
+
 li{
     font-family: "Open Sans", Arial, serif;
     color: #444;
@@ -53,19 +80,28 @@ li{
     font-weight: 400;
 }
 
+/*First and last name*/
+
 .name{
    line-height: 3em;
    color:#33485e;
    text-transform: uppercase;
    text-align: center;
 }
+
 /*Photo goes here*/
+
+/*Journalist*/
 
 .mytitle{
     line-height: 1.5em;
     color:#33485e;
     text-transform: uppercase;
 }
+
+/*Style for section titles*/
+
+
 .sectiontitle{
     line-height: 1.5em; 
     text-transform: uppercase;
@@ -73,11 +109,30 @@ li{
     color:white;
     background-color:#33485e
 }
+
+/*Style for job titles*/
+
 .jobtitle{
     line-height: 1.5em; 
     font-weight: 600;
 }
+
+/*Style for job organizations*/
+
 .joborg{
     line-height: 1.5em; 
     font-weight: 400;
+}
+
+/*Style for job dates*/
+
+.jobdates{
+    line-height: 1em; 
+    font-weight: 400;
+}
+
+/*Style for list items*/
+
+.other{
+    font-size: 1em;
 }
