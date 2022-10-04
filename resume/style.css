@@ -54,5 +54,7 @@ li{
 }
 
 .name{
-    
+   line-height: 3em;
+   color:#33485e;
+   text-transform: uppercase;
 }
