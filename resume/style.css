@@ -73,3 +73,7 @@ li{
     color:white;
     background-color:#33485e
 }
+.jobtitle{
+    line-height: 1.5em; 
+    font-weight: 600;
+}
