@@ -1,3 +1,11 @@
+.h1 {
+    font-family: Helvetica, sans-serif;
+    font-size: 24px;
+    font-style: bold;   
+}
+
+
+
 #content {
     margin: 0 auto;
     width: 900px
