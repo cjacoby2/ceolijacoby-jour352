@@ -7,6 +7,19 @@
     font-family: Georgia, serif;
     font-size: 13px;
 }
+
+blockquote {
+    font-family: Helvetica, sans-serif; 
+    font-size: 24px
+    font-style: italic; 
+    margin-top: 15px; 
+    margin-bottom: 15px; 
+    color: #891A1A; 
+    margin-left: 50px; 
+    padding-left: 15px; 
+    border-left: 4px solid #ccc; 
+    } 
+    
 #content {
     margin: 0 auto;
     width: 900px
