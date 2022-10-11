@@ -12,3 +12,9 @@
     margin: 0 auto;
     width: 95%;
 }
+
+#byline {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+}
