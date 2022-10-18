@@ -1,0 +1,65 @@
+1.  In the sentence below, put in the necessary code that would allow users to click on the word "Google" and open Google's homepage:
+
+Google is the best search engine in the world.
+
+<a href="https://www.google.com/">Google</a>
+
+2.  Describe the purpose of a DIV tag.
+
+ A div is a container for HTML elements. It allows you to group similar content on a web page together and style it accordingly.
+
+3.  Write out the basic structure of an HTML page, putting the basic tags in the correct position.  (Note: you don't need to connect it to a stylesheet, include DIV tags, advanced metadata, or anything like that).
+
+<!DOCTYPE html>
+ <html>
+  <head>
+  <title>
+  </title>
+  </head>
+  </body>
+  </body>
+</html>
+ 
+4.  There are two main "areas" or "sections" in the basic structure of an HTML page. In which area would you put a link to a stylesheet?
+
+ You would put a link to a stylesheet in the head.
+
+5.  In which main "area" or "section" of an HTML page would you put text, images or DIV tags?
+
+ You would put text, images and DIV tags in the body.
+
+6.  In the space below, put one DIV tag with a class of "graphicbox" and a second DIV tag with an ID of "name".
+
+<div class="graphicbox">
+</div>
+ 
+<div id="name">
+ </div>
+
+7.  In the space below, put one DIV tag with an ID of "apples" and a class of "fruit".
+
+ <div class="fruit" id="apples">
+ </div>
+
+8.  In the space below, write the correct CSS code to target a DIV which has a class of "fruit".  Make the color of the text black (#000000).
+
+ .fruit {
+    color: #000000;
+ }
+
+9.  What tag would we use to include an image on an HTML page? Just give me the name of the tag, you don't have to write out all the code.
+
+ <img src>
+
+10.  Why do we use media queries?
+
+ Media queries allow you to change the style of an element for different sizes of screens (mobile, desktop, etc) 
+
+11. What is the main difference between a serif and a sans-serif font?
+
+ A serif font has decorative lines on the edges of the letters in order to mimic handwriting. 
+ A sans-serif font does not have these decorative lines, and is meant for screens.
+
+12. Which of the following is a hexadecimal code?
+
+#FFCC33
