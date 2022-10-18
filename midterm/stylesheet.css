@@ -26,13 +26,16 @@ blockquote {
     border-left: 4px solid #ccc; 
     } 
 
+#content {
+        margin: 0 auto;
+        width: 900px;
+    }
+
+/*Styling for specific components*/
+
 #masthead{
     margin: 0 auto;
     width: 100%;
-}
-#content {
-    margin: 0 auto;
-    width: 900px;
 }
 
 #pose{
@@ -63,9 +66,10 @@ blockquote {
 
 #related h2{
     font-family: Helvetica, sans-serif;
-    font-size: 20px;
+    font-size: 16px;
     font-style: italic;  
 }
+
 
 #caption p{
     font-family: Helvetica, Arial, sans-serif;
