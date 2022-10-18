@@ -67,3 +67,9 @@ blockquote {
     font-size: 14px;
     font-style: italic;
 }
+
+#related h2{
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;  
+}
