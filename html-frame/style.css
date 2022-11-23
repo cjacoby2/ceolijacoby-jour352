@@ -13,6 +13,13 @@ h2 {
     color: gray 
 }
 
+#byline{
+    font-size: 30px;
+    color: gray 
+    font-style: italic;
+}
+
+
 #gourd{
     margin: 0 auto;
     width: 100%;
