@@ -19,10 +19,16 @@ nav {
     overflow: auto;
 }
 
-#byline{
+#byline {
     font-size: 30px;
     color: gray;
     font-style: italic;
+}
+
+#caption {
+    font-size: 30px;
+    color: gray;
+    font-style: italic; 
 }
 
 #gourd{
