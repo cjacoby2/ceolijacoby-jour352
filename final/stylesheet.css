@@ -5,6 +5,12 @@ body {
 h1 {
     font-size: 36px;
     color: #c71e1d;
+    text-align: center;
+}
+
+h3 {
+    font-size: 18px;
+    color: rgb(68, 65, 65)
 }
 blockquote {
     font-style: italic;
@@ -20,7 +26,7 @@ blockquote {
 
 .section{
     border: 1px solid black;
-    padding: 5px;
+    padding: 10px;
     width: 95%;
     margin: auto;
     background-color: #ccc;
@@ -46,14 +52,43 @@ blockquote {
     background-color: #c71e1d; 
   }
 
+#syringe {
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+    width:50%;
+}
+
+#anita {
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+    width:50%;
+}
+
+#vigil {
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+    width:50%;
+}
+
+#caption{
+    font-size: 15px;
+    color:  rgb(68, 65, 65);
+    margin: auto;
+    text-align: center;
+}
+
 #topper{
     margin: 0 auto;
-    width: 100%;
+    width: 98.5%;
+    align-content: center;
 }
 
 #footer{
     font-size: 15px;
-    color:#ccc;
+    color:black;
     margin: auto;
     text-align: center;
 }
